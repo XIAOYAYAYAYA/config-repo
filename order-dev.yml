@@ -1,6 +1,6 @@
 env: dev
 girl:
-  age: 22
+  age: 18
   name: lili
 spring:
   application:
